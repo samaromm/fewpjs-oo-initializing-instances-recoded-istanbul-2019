@@ -6,3 +6,4 @@ class Dog{
     this.breed=breed
   }
 }
+
