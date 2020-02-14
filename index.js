@@ -1,3 +1,6 @@
 class Breakfast{
-  consturctor
+  constructor(food,drink){
+    this.food=food
+    this.drink=drink
+  }
 }
